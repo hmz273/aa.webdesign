@@ -343,6 +343,13 @@ header
   line-height: 75px;
 }
 
+.header-area .main-nav .logo img{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: transparent;
+}
+
 .background-header .main-nav .nav {
   margin-top: 20px !important;
 }
@@ -1801,7 +1808,8 @@ footer .footer-item h4 {
 }
 
 footer .about .logo img {
-  width: 89px;
+  width: 120px;
+  height: 120px;
   margin-bottom: 30px;
 }
 
